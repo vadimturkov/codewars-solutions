@@ -1,4 +1,4 @@
-// Solution to CodeWars kata: Vowel count
+// Solution to CodeWars kata: Vowel Count
 // https://www.codewars.com/kata/vowel-count/
 
 function getCount(str) {

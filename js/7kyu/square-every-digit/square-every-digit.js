@@ -1,4 +1,4 @@
-// Solution to CodeWars kata: Square every digit
+// Solution to CodeWars kata: Square Every Digit
 // https://www.codewars.com/kata/square-every-digit/
 
 function squareDigits(num) {

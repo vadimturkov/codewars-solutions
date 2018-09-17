@@ -1,4 +1,4 @@
-// Solution to CodeWars kata: Highest and lowest
+// Solution to CodeWars kata: Highest and Lowest
 // https://www.codewars.com/kata/highest-and-lowest/
 
 function highAndLow(str) {

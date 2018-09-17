@@ -1,4 +1,4 @@
-// Solution to CodeWars kata: List filtering
+// Solution to CodeWars kata: List Filtering
 // https://www.codewars.com/kata/list-filtering/
 
 function filterList(list) {
