@@ -1,4 +1,4 @@
-// Solution to CodeWars kata: Highest and lowest
+// Solution to CodeWars kata: Square every digit
 // https://www.codewars.com/kata/square-every-digit/
 
 function squareDigits(num) {
