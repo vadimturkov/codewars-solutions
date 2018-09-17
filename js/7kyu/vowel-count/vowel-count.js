@@ -9,4 +9,4 @@ function getCount(str) {
       }
       return count;
     }, 0);
-  }
+}
