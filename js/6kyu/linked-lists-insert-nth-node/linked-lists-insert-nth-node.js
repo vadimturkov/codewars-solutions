@@ -9,7 +9,7 @@ function Node(data, next = null) {
 function insertNth(head, index, data) {
   if (index === 0) return new Node(data, head);
   
-  for (let i = 1, node = head; node; node = node.next, i++) {
+  for (let i = 1, node = head; node !== null; node = node.next, i++) {
     if (i === index) {
       node.next = new Node(data, node.next);
       return head;
