@@ -2,5 +2,5 @@
 // https://www.codewars.com/kata/remove-consecutive-duplicate-words/
 
 function removeConsecutiveDuplicates(text) {
-    return text.split(' ').filter((word, i, array) => word != array[i - 1]).join(' ');
+    return text.split(' ').filter((word, i, array) => word !== array[i - 1]).join(' ');
 }
